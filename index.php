@@ -30,6 +30,7 @@
         echo 'mySample is an instance of sampleClass';
     }
 
+    // gettype(): 返回变量类型
     $a = 56;
     echo '<br/>The a type is: '.gettype($a);
     settype($a, 'string');
@@ -53,6 +54,12 @@
 <form action="array.php" method="post">
     <div>
         <input type="submit" value="Go to Array PHP" />
+    </div>
+</form>
+
+<form action="database.php" method="post">
+    <div>
+        <input type="submit" value="Go to DB PHP" />
     </div>
 </form>
 
