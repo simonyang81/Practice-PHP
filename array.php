@@ -4,6 +4,7 @@
 </head>
 <body>
 <?php
+
     $title = 'This is a practice array page';
     echo '<p> '.$title.' </p>';
 
