@@ -7,7 +7,6 @@
     $title = 'This is a practice array page';
     echo '<p> '.$title.' </p>';
 
-
     $products = array('Tires', 'Oil', 'Spark Plus');
     foreach($products as $prod) {
         echo $prod.'  ';
