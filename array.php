@@ -54,7 +54,6 @@
 //  对于关联数组, asort()方法可以按value排序, ksort方法可以按key排序
 //  反向排序函数: rsort, arsort, krsort
 
-
 ?>
 </body>
 </html>
